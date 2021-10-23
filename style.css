@@ -20,7 +20,7 @@ main {
   background: url(images/background.svg) no-repeat center/cover;
   min-height: 812px;
   width: 100vw;
-  height: 100vh;
+  height: 100vw;
 }
 
 .container {
