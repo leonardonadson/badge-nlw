@@ -1,6 +1,6 @@
 const linksSocialMedia = {
   github: 'leonardonadson',
-  youtube: '',
+  linkedin: 'in/leonardonadson',
   facebook: 'profile.php?id=100009809433630',
   instagram: 'leonardonadson',
   twitter: 'leonardonadson'
